@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Boas vindas ao meu perfil 💙
 
 Meu nome é Fernando Martins Miranda
@@ -12,4 +10,4 @@ Meu nome é Fernando Martins Miranda
 
 fernandomartinsmiranda@gmail.com
 
-![pensando]([https://tenor.com/pt-BR/view/think-thiinking-about-hive-hive-hivechat-blockchain-gif-18530814](https://tenor.com/bpUSg.gif])
+![pensando](https://media1.tenor.com/m/Ico5tt8oErQAAAAd/anarchy-solutions.gif)
