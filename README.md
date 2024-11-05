@@ -12,4 +12,4 @@ Meu nome é Fernando Martins Miranda
 
 fernandomartinsmiranda@gmail.com
 
-![pensando.gif]([https://tenor.com/pt-BR/view/think-thiinking-about-hive-hive-hivechat-blockchain-gif-18530814](https://tenor.com/bpUSg.gif])
+![pensando]([https://tenor.com/pt-BR/view/think-thiinking-about-hive-hive-hivechat-blockchain-gif-18530814](https://tenor.com/bpUSg.gif])
