@@ -2,8 +2,8 @@
 
 Meu nome é Fernando Martins Miranda
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript e Python
+- Estou estudando por mim mesmo Tecnologia da Informação
+- Estou me desenvolvendo na linguagem Python e SQL
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
